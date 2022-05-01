@@ -38,16 +38,7 @@ public class Principal {
 			
 			}
 			
-			
-			
-			
 		} while (i.equals("1"));
-		
-		
-		
-		
-		
-		
 		
 	}
 
